@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/res/preview.xsl"?>
+<rss version="2.0">
+    <channel>
+        <title>피플</title>
+        <link>https://pple.link</link>
+        <description><![CDATA[세상을 구하는 붉은 인연, 피플입니다. 지정 헌혈 매칭 서비스입니다.]]></description>
+        <lastBuildDate>Wed, 09 Mar 2022 06:37:34 GMT</lastBuildDate>
+        <generator>Feed43 Proxy/1.0 (www.feed43.com)</generator>
+        <ttl>360</ttl>
+
+        <item>
+            <guid isPermaLink="false">abe46e7b7604a03722f3cb216bfcb0dd</guid>
+            <pubDate>Wed, 09 Mar 2022 06:37:34 GMT</pubDate>
+            <title>í”¼í”ŒYou need to enable JavaScript to run this app.</title>
+            <link>https://pple.link/&#37;C3&#37;AD&#37;E2&#37;80&#37;9D&#37;C2&#37;BC&#37;C3&#37;AD&#37;E2&#37;80&#37;9D&#37;C5&#37;92You&#37;20need&#37;20to&#37;20enable&#37;20JavaScript&#37;20to&#37;20run&#37;20this&#37;20app.</link>
+            <description><![CDATA[<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
+]]></description>
+        </item>
+
+
+    </channel>
+</rss>
